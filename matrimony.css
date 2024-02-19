@@ -1,0 +1,143 @@
+.n-1{
+    background-color:rgba(239, 38, 7, 0.11);
+    padding:0.06px 2px;
+    margin:0px;
+}
+.u-1{
+display:flex;
+list-style-type:none;
+justify-content: flex-end;
+margin-right:100px;
+
+}
+.l-1{
+    padding-right:20px;
+}
+.n-2{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    background-image:url("yellow.jpg");
+    background-size:cover;height:100px;
+}
+.u-2{
+    display: flex;
+    list-style-type: none;
+    color:purple;
+
+}
+.l-2{
+    padding-right:2px;
+}
+.n-3{
+padding:3px 170px;
+background-color: rgb(73, 38, 38);
+color:white;
+}
+.u-3{
+    display:flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.d-3{
+    padding-left: 1000px;
+    background-image: url("eugenivy_now-1Bs2sZ9fD2Q-unsplash.jpg");
+    background-size:cover;
+    height:500px;
+    padding-top:40px;
+    margin-bottom: 0px;
+
+    
+    
+}
+.s-1{
+    background-color: rgba(117, 11, 1, 0.593);
+   
+    width:230px;
+    height:310px;
+    border-radius: 10px;
+    align-items:center;
+    border:none;
+    padding-left:40px ;
+    padding-top:20px;
+    
+}
+.i-1{
+    border-radius:5px;
+    padding:5px;
+    margin:3px;
+    margin-left:10px;
+    border:none;
+    align-items: center;   
+}
+.i-11{
+    margin-top:5px;
+    margin-left:15px;
+}
+.i-2{
+    
+    margin-top:20px;
+    margin-left:9px;
+    padding:5px 45px;
+    background-color: yellowgreen;
+    border:none;
+    border-radius:10px;
+}
+.d-6{
+    display:flex;
+    background-color:rgba(7, 7, 7, 0.885);
+    padding:20px 170px;
+    height:400px;
+}
+.h123{
+    color:rgba(255, 255, 255, 0.551);
+    padding-left:22px;
+    
+}
+.h124{
+    color:rgba(255, 255, 255, 0.553);
+    padding-left:33px;
+    
+}
+.p66{
+    padding-left:20px;
+}
+.p77{
+    text-align:center;
+    color:rgba(238, 223, 204, 0.5);
+    margin-top:-6px;
+}
+.p78{
+    text-align:center;
+    color:rgba(238, 223, 204, 0.5);
+    margin-top:-6px;
+    padding:17px;
+}
+.u-6,.u-7{
+    color:rgba(238, 223, 204, 0.5);
+    list-style-type:disc;
+
+}
+.l-8{
+    padding:5px;
+}
+.pp-6{
+    color:rgba(238, 223, 204, 0.5);
+    font-family:verdana;
+    font-size:13px;
+    padding:5px;
+    line-height:30px;
+}
+.s-6,.s-7,.s-8,.s-9{
+    height:300px;
+    width:350px;   
+    
+}
+.p-10{
+    padding:20px 10px;
+    text-align:center;
+    margin:-2px 0px;;
+}
+
+
+

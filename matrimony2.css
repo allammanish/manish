@@ -1,0 +1,136 @@
+.m-1{
+   
+    background-image: url("pexels-eva-bronzini-6085950.jpg");
+    background-size: cover;
+    height:670px;
+    margin-top:-27px;
+
+}
+.h1{
+    text-align:center;
+    font-family:sans-serif;
+    font-size:40px;
+    color:rgba(252, 232, 9, 0.982);
+    padding-top:15px;
+}
+.img-1{
+   text-align: center;
+}
+.d-4{
+    display:flex; 
+    
+}
+.img-2{
+    height: 160px;
+    width:160px;
+    border-radius:50%
+}
+
+.s-2{
+   border:1px solid rgb(232, 159, 159);
+   background-color: rgb(251, 204, 138);
+   margin:20px;
+   height:350px;
+   width:400px;
+   text-align:center;
+   border-radius:  10px 70px;
+   padding-top:5px;
+}
+.p-2{
+    font-size:20px;
+    font-family:Font-awesome;
+    color:rgb(112, 13, 225)
+}
+.p-3{
+    color:brown;
+    
+}
+.b-33{
+    text-align:center;
+}
+.b-3{
+    text-align:center;
+    padding: 16px 10px;
+    font-size:30px;
+    border:none;
+    background-color: rgb(153, 7, 189);
+    border-radius: 15px;
+    margin:20px;
+    font-family:'Times New Roman', Times, serif;
+    
+    
+    
+}
+.m-2{
+   margin-top:-40px;
+    background-image:url("4728244.jpg");
+    height:500px;
+    background-size: cover;
+}
+.h-2{
+    text-align:center;
+    color:rgb(145, 9, 18);
+    font-size:60px;
+
+}
+.img-t3{
+    text-align:center;
+    margin-top:-30px;
+    
+}
+.pt-3{
+    text-align:center;
+    margin: 40px 60px;
+    font-size:20px;
+}
+.m-4{
+    margin-top:-25px;
+    height:650px;
+    background-image: linear-gradient(rgba(128, 128, 128, 0.484),rgba(128, 128, 128, 0.445)),url("bride-6230420_1280.jpg");
+}
+
+.d-5{
+    display:flex;
+    margin:5px;
+}
+   
+.s-3{
+    height: 260px;
+    width:340px;
+    padding:15px;
+    background-color:white;
+    margin-right:5px;
+    border-color:rgb(251, 204, 138);
+}
+.hf4{
+    text-align:center;
+   font-size:40px;
+    padding:20px 0px;
+    color:rgb(95, 8, 188)
+}
+
+.pf4{
+    text-align:center;
+    font-size:20px;
+    color:black;
+    
+}
+.p-4{
+    text-align: center;
+    margin:80px 0px;
+    
+}
+.b-4{
+    background-color:rgb(251, 204, 138);
+
+    border:none;
+   margin-bottom:20px;
+   padding: 16px 10px;
+    font-size:30px;
+    border-radius:10px;
+    color:rgb(238, 9, 139);
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
