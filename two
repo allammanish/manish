@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+    <head>
+        <title>FONT TAG</title>
+    </head>
+    <body style="background-color:yellow">
+        <font size="150">HOW ARE YOU</font>
+    </body>
+</html>
